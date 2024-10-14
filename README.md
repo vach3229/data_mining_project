@@ -1,19 +1,12 @@
-# **Project Proposal**
-
-Hi everyone,
-
-Kyndra and I, both computer science students, are looking for teammates to join us on our project. We’re thinking about focusing on a theme related to military or sports. We’re undergraduates, but we're open to working with either undergraduate or graduate students.
-
-If you're interested in collaborating, please reach out! You can contact us at **spmi6902@colorado.edu** or Kyndra at **Kyndra.Nelson@colorado.edu**.
-
----
-
 ### **(1) Project Title**  
-A concise and informative title
+Analyzing MMA Fight Data for Performance Insights and Safety Trends
 
 ### **(2) Team Members**  
-- Spartak Mikayelyan, CSCI 4502  
-- Kyndra Nelson, CSCI 4502
+Kyndra Nelson - CSCI 4502
+Spartak Mikayelyan - CSCI 4502
+Varun Cheela - CSCI 4502
+Khushbu Adhikari - CSCI 4502
+Brody Frankovich - CSCI 4502 
 
 ---
 
@@ -37,7 +30,20 @@ We will be working with both datasets to identify trends within the data to help
 
 ### **(5) Potential Tool(s) to be Used**  
 - **Software**: Kaggle, Jupyter, GitHub  
-- **Coding**: Pandas, Python, R
+- **Coding**: Pandas, Python, R, pyplot
+- **Communication**: GroupMe, Outlook, Zoom
+  
+---
+
+### **(6) Milestones**
+- Milestone 1: Data acquisition and cleaning (Weeks 1-2)
+    Obtain datasets and clean them for analysis
+- Milestone 2: Data analysis (Weeks 3-5)
+    Analyze win ratios, statistics, strike hit percentages, and success by age 
+- Milestone 3: Visualizations and insights (Week 6-7)
+    Generate visualizations 
+- Milestone 4: Report writing and presentation (Weeks 8-9)
+    Compile the final report with key findings, insights and recommendations for fighter training and strategy. 
 
 ---
 
